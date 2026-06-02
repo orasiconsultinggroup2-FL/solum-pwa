@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { X, Search, UserPlus, Camera, FileText, CalendarPlus, ChevronRight } from 'lucide-react'
+import { X, Search, Camera, FileText, CalendarPlus, ChevronRight } from 'lucide-react'
 
 const sections = [
   {
